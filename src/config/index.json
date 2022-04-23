@@ -62,9 +62,9 @@
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "WaveSurfer.js",
+        "description": "A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas",
+        "icon": "/assets/images/wavesurfer.png"
       },
       {
         "name": "Next.js",
@@ -72,9 +72,9 @@
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Netlify",
+        "description": "Netlify unites an entire ecosystem of modern tools and services into a single, simple workflow for building high performance sites and apps.",
+        "icon": "/assets/images/netlify.svg"
       }
     ]
   },
@@ -92,17 +92,6 @@
           "Supports all the popular audio formats"
         ]
       },
-      {
-        "name": "Pro",
-        "price": "$15",
-        "href": "https://google.com",
-        "priceDetails": "per user",
-
-        "features": [
-          "5 users"
-        ]
-      },
-      
       {
         "name": "Community",
         "price": "Visit Now",

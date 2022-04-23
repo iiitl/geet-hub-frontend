@@ -5,7 +5,7 @@ import config from "../config/index.json";
 const Pricing = () => {
   const { pricing } = config;
   const { items, title } = pricing;
-  const [firstPlan, secondPlan, thirdPlan] = items;
+  const [firstPlan, thirdPlan] = items;
 
   return (
     <section className={`bg-background py-8`} id="pricing">

@@ -84,7 +84,7 @@
       {
         "name": "Audio Editor",
         "price": "Visit Now",
-        "href": "https://google.com",
+        "href": "https://geethub-editor.netlify.app",
         "priceDetails": "",
         "features": [
           "Tool to easily edit and manipulate audio file as per your need",
@@ -95,7 +95,7 @@
       {
         "name": "Community",
         "price": "Visit Now",
-        "href": "https://google.com",
+        "href": "https://prerakmathur20.github.io/profile-manager/",
         "priceDetails": "",
         "features": [
           "Community to Share your Audio and Music",
@@ -129,9 +129,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/PrerakMathur",
+      "twitter": "https://twitter.com/pm_hai_hum",
+      "linkedin": "https://bit.ly/prerak-linkedin"
     }
   }
 }

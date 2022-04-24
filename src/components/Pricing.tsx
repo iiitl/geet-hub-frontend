@@ -115,7 +115,7 @@ const Pricing = () => {
               <div
                 className={`w-full pt-6 text-3xl text-gray-600 font-bold text-center`}
               >
-                <a href={thirdPlan?.price}> {thirdPlan?.price}</a>
+                <a href={thirdPlan?.href}> {thirdPlan?.price}</a>
                 <span className={`text-base`}> {thirdPlan?.priceDetails}</span>
               </div>
             </div>

@@ -20,7 +20,7 @@
   ],
   "callToAction": {
     "text": "Get started",
-    "href": "#"
+    "href": "pricing"
   },
   "mainHero": {
     "title": "What is",
@@ -33,7 +33,7 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:mathur.prerak@gmail.com?subject=About GeetHub!"
     }
   },
   "product": {

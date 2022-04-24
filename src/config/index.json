@@ -29,7 +29,7 @@
     "img": "/assets/images/home1.jpeg",
     "primaryAction": {
       "text": "Start Editing",
-      "href": "https://google.com"
+      "href": "https://geethub-editor.netlify.app"
     },
     "secondaryAction": {
       "text": "Email us",

@@ -380,44 +380,9 @@
   "resolved" "https://registry.npmjs.org/@next/react-refresh-utils/-/react-refresh-utils-12.0.0.tgz"
   "version" "12.0.0"
 
-"@next/swc-android-arm64@12.0.0":
-  "integrity" "sha512-m0CSgD+aUZ49fctjJ7IRbkPtEYkFk+AtpJ73sfjbxzOXwAEfB2LM33rIQNp/G7D1WLqWITF00keNaeGAADD0aw=="
-  "resolved" "https://registry.npmjs.org/@next/swc-android-arm64/-/swc-android-arm64-12.0.0.tgz"
-  "version" "12.0.0"
-
-"@next/swc-darwin-arm64@12.0.0":
-  "integrity" "sha512-y+p+rTVx1sfQqBURZkheVTyz7ugkIMcFxQkd+yNU4IMCT6nOH9SdL1jr+E+neqY1D1vvsOj/UwkPxyOHH2p8Lw=="
-  "resolved" "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.0.0.tgz"
-  "version" "12.0.0"
-
-"@next/swc-linux-arm-gnueabihf@12.0.0":
-  "integrity" "sha512-DntdAybXbEOzP7wiv/Ppa9BTaGkb/Fp3SVxrZv694OjtGbmY0Q8+YGsShh0FQmhMKBwcJ0GMLI+anmsWj9ZUcA=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-12.0.0.tgz"
-  "version" "12.0.0"
-
-"@next/swc-linux-arm64-gnu@12.0.0":
-  "integrity" "sha512-3D18X1dpziBnk9UEg7b/hIyQA6Qt18UDKY3dmKqKcGcFMwtMqBsunVLDoNmB5SHVDVBGvA4zOtq28Xovb/3MOA=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.0.0.tgz"
-  "version" "12.0.0"
-
-"@next/swc-linux-arm64-musl@12.0.0":
-  "integrity" "sha512-el+Xin2vl2JnWw809Eg+otWxvIcw+waBuOj4B36+d8yircexhNvSDjAnZkhXCWA6I05IANUx83Q0Up/NrnZ5yQ=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-12.0.0.tgz"
-  "version" "12.0.0"
-
-"@next/swc-linux-x64-musl@12.0.0":
-  "integrity" "sha512-0pizk3CZasxbaSyn7FzXb9cfrgIjmyq0dA3+MqvFZJNTLjDw8/yk0w3HdAOPFor3Tgoqhu5nsX/X5mnE6tObng=="
-  "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.0.0.tgz"
-  "version" "12.0.0"
-
-"@next/swc-win32-arm64-msvc@12.0.0":
-  "integrity" "sha512-0+NT/FY2qfwgScqRhNabV6vVCfx+4PmRS4675/iMKdGLdGzat69FGjUqxW6rPS+bJGc8qvpa6oztsvsVODJHSQ=="
-  "resolved" "https://registry.npmjs.org/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-12.0.0.tgz"
-  "version" "12.0.0"
-
-"@next/swc-win32-ia32-msvc@12.0.0":
-  "integrity" "sha512-sbjvdZGKiSJQrOSJRooEPIWwSfyatBiuRC7Q6R2jiR2KW1jg98nbnXRwiI8tj7OSl28h0yswmtGFjz5t5O1EbQ=="
-  "resolved" "https://registry.npmjs.org/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-12.0.0.tgz"
+"@next/swc-linux-x64-gnu@12.0.0":
+  "integrity" "sha512-jMOBEc7wbsJfq6UZinrEFky3kK4LCjFPL2caHqfXpodTv/oVA/DMkiXhpYRkdfLc9vNZbw/a4Ut7gQjgYPVPtg=="
+  "resolved" "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.0.0.tgz"
   "version" "12.0.0"
 
 "@node-rs/helper@1.2.1":
@@ -2013,11 +1978,6 @@
   "integrity" "sha1-FQStJSMVjKpA20onh8sBQRmU6k8="
   "resolved" "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   "version" "1.0.0"
-
-"fsevents@~2.3.1", "fsevents@~2.3.2":
-  "integrity" "sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA=="
-  "resolved" "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
-  "version" "2.3.2"
 
 "function-bind@^1.1.1":
   "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A=="

@@ -16,7 +16,12 @@
     {
       "name": "Technologies",
       "href": "features"
+    },
+    {
+      "name": "Tools",
+      "href": "pricing"
     }
+    
   ],
   "callToAction": {
     "text": "Get started",

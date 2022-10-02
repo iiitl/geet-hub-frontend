@@ -10,5 +10,5 @@
 * Open the folder in your favorite editor and cd geet-hub-frontend/
 * To install all dependencies run -: npm i
 * On the command line run  -: npm run build
-* To start the project on localhost run -: npm run start
-The project will be started on localhost
+* To start the project on localhost run -: npm run start <br/>
+ The project will be started on localhost

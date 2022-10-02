@@ -23,10 +23,6 @@
     }
     
   ],
-  "callToAction": {
-    "text": "Get started",
-    "href": "pricing"
-  },
   "mainHero": {
     "title": "What is",
     "subtitle": "GeetHub?",

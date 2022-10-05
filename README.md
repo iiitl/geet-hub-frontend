@@ -6,9 +6,14 @@
 
 ## SET-UP
 * Create a fork of the repository to your local machine
-* Clone the project using git clone https://github.com/@username/geet-hub-frontend
+* Clone the project using git clone `https://github.com/@username/geet-hub-frontend`
 * Open the folder in your favorite editor and cd geet-hub-frontend/
 * To install all dependencies run -: `npm i`
 * On the command line run `npm run build` -:It creates a build directory with a production build of your app.
 * To start the project on localhost run `npm run start`-: It runs the node script that is listed under start in the package.json. 
 * Go to `http://localhost:3000/` to see the application running
+* Create a feature branch and checkout to it `git checkout -b newFeature`
+* Stage and commit your changes using `git add .` and  `git commit -m "some message"` respectively.
+* Push to remote `git push -u origin newFeature`
+* Open a pull request and link it to a chosen issue by adding Fix #[Issue Number] to the title.
+
